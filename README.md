@@ -4,7 +4,7 @@
     <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There;I'm+Yosua;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Indonesia ID</h3>
 
 <br/>
 
@@ -15,8 +15,6 @@
  🌱 I’m currently learning **Docker, Supabase, Podman**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Ganasa18/Ganasa18/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
