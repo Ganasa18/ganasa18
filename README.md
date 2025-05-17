@@ -22,7 +22,10 @@
   <a href="mailto:yosualiharja@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/yosua-liharja-0a264927b/" target="_blank">
+<!--   <a href="https://www.linkedin.com/in/yosua-liharja-0a264927b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> -->
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://my-porto-4wuk0bguf-ganasa18.vercel.app/" target="_blank">
